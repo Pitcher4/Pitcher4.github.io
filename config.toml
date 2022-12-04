@@ -42,9 +42,9 @@ pygmentsUseClasses = true
     name = 'Home'
     url = '/'
     weight = 1
-[menu]
+  
   [[menu.main]]
     identifier = 'portfolio'
     name = 'Portfolio'
-    url = 'portfolio'
+    url = '/portfolio'
     weight = 2
